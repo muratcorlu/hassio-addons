@@ -9,7 +9,7 @@ arch:
   - aarch64
   - amd64
 panel_icon: mdi:home-export-outline
-panel_title: HomeBridge
+panel_title: Homebridge
 ports:
   8581/tcp: 8581
 ports_description:
