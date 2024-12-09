@@ -8,6 +8,8 @@ arch:
   - armv7
   - aarch64
   - amd64
+panel_icon: mdi:home-export-outline
+panel_title: HomeBridge
 ports:
   8581/tcp: 8581
 ports_description:
