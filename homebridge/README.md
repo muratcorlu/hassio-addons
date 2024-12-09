@@ -5,7 +5,7 @@ This is an [Homebridge](https://homebridge.io) add-on for [Home Assistant](https
 Note that Home Assistant supports HomeKit natively these days, both as a [controller](https://www.home-assistant.io/integrations/homekit_controller/) and as a [device](https://www.home-assistant.io/integrations/homekit/), so you probably don't need Homebridge if you just want to integrate with the HomeKit ecosystem. However, Homebrige has a lot of plugins, so it can still be useful to bridge some less-supported devices (e.g. [Nest](https://github.com/chrisjshull/homebridge-nest)) into Home Assistant.
 
 ## Installation
-Add the [add-on repository](https://github.com/davide125/hassio-addons) and install Homebridge from the add-on store.
+Add the [add-on repository](https://github.com/muratcorlu/hassio-addons) and install Homebridge from the add-on store.
 
 To configure Homebridge click on OPEN WEB UI from the add-on page.
 

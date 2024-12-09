@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.1.9] - 2024-12-09
+
+- Update Homebridge to the latest version.
+- Added Sidebar menu.
+
 ## [0.1.8] - 2024-01-06
 
 - Update Homebridge to 2023-12-30 and switch to the official container image.
